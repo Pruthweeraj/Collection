@@ -13,12 +13,12 @@ public class ArrayListDemo {
 		ArrayList arrayList2 = new ArrayList<>(15);//With initial capacity
 		
 		List<String> list = new ArrayList<>();
-		list.add("pruthwee");
+		list.add("pruthweeRaj");
 		list.add("Jogi");
 		list.add("Akash");
 		list.add("puja");
 		list.add("Sri");
-		list.add("mathana");
+		list.add("mathana R");
 		
 		//ArrayList arrayList = new Arraylist(Collection c);
 		ArrayList arrayList3 = new ArrayList<>(list);
